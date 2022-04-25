@@ -1,7 +1,5 @@
-#This code was written by:
-#6715 Adham Mostafa Abdulhamid
-#5692 Ahmed Elsayed
-#6787 Mohamed Hossam Abdelgelil Ahmed
+
+
 
 #Importing the module Random to use Random methods
 import random
